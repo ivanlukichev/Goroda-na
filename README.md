@@ -43,3 +43,20 @@ Created by **Ivan Lukichev**
 
 More projects:  
 https://lukichev.biz/
+
+## Data
+
+Goroda-na uses a curated city list for gameplay, validation, and letter-based city pages.
+
+The current list contains **5,336 city names** and is available in this repository as a separate open resource:
+
+[https://github.com/ivanlukichev/Goroda-na/blob/main/city-list-games](https://github.com/ivanlukichev/Goroda-na/blob/main/city-list-games)
+
+You can:
+
+- view the full list  
+- download it  
+- use it in your own projects  
+- build your own word games, city games, or lookup tools  
+
+The list is intended for practical use in games and may require additional filtering depending on your rules and geography policy.
