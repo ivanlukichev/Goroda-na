@@ -1,62 +1,68 @@
-# Goroda-na
+<h1 align="center">Goroda</h1>
 
-Goroda-na is a browser-based word game inspired by the classic Russian game "Cities" (Города).
+<p align="center">
+  A browser version of the classic cities word game, built for fast Russian-language play and supported by a reusable city dataset.
+</p>
 
-🌐 Website  
-https://goroda-na.ru/
+<p align="center">
+  <a href="https://goroda-na.ru/"><strong>Play Now</strong></a>
+  ·
+  <a href="https://github.com/ivanlukichev/Goroda-na"><strong>GitHub Repo</strong></a>
+  ·
+  <a href="https://github.com/ivanlukichev/Goroda-na/blob/main/city-list-games"><strong>Open Data</strong></a>
+</p>
 
-## About
+<p align="center">
+  <a href="https://goroda-na.ru/">
+    <img src="assets/preview.svg" alt="Goroda preview" width="900">
+  </a>
+</p>
 
-Goroda-na recreates the well-known word game where players must name a city starting with the last letter of the previous one.
+## What It Is
 
-The project is designed as a simple and accessible browser game focused on quick gameplay and language-based puzzles.
+Goroda takes the familiar spoken game of naming cities by the last letter and turns it into a clean browser experience. It keeps the mechanic recognizable, lowers friction, and makes the format easier to explore online for both play and search discovery.
 
-The game works directly in the browser without registration or installation.
+This public repository is a lightweight product landing page with an extra practical layer: the city list used for validation and content generation is also exposed as a reusable resource.
 
-## Gameplay
+## Why It Feels Different
 
-Players take turns naming cities:
+- It modernizes a well-known offline word game without overcomplicating it.
+- The theme mixes language, memory, and geography in a simple loop.
+- The public repo is useful even beyond the site because it includes shareable data.
+- It is designed for quick sessions instead of long onboarding.
 
-1. The next city must start with the last letter of the previous city.
-2. Cities cannot be repeated.
-3. The goal is to keep the chain going as long as possible.
+## Open Data
 
-The game is widely known in Russian-speaking countries and works as both entertainment and a vocabulary challenge.
+The repository includes a curated city list used for gameplay, validation, and city-based pages:
 
-## Features
+- Data file: [city-list-games](https://github.com/ivanlukichev/Goroda-na/blob/main/city-list-games)
+- Scope: 5,336 city names
+- Uses: word games, lookup tools, geography experiments, validation logic
 
-- Classic "Cities" word game mechanics
-- Simple browser-based gameplay
-- Works on desktop and mobile
-- Quick play sessions
-- Language and geography challenge
+## Project Snapshot
 
-## Philosophy
+- Genre: word and geography game
+- Language: Russian
+- Stack: static front end
+- Core mechanic: name a city starting with the last valid letter
+- Extra asset: reusable open city list
 
-Goroda-na follows the idea of lightweight browser games built around familiar mechanics and quick gameplay.
+## More Projects
 
-The goal is to recreate classic games in a simple and accessible web format.
+| Project | Live site | Public repo |
+| --- | --- | --- |
+| Slova Game | [slova-game.ru](https://slova-game.ru/) | [SlovaGame](https://github.com/ivanlukichev/SlovaGame) |
+| Word Chain Game | [word-chain-game.com](https://word-chain-game.com/) | [Word-Chain-Game](https://github.com/ivanlukichev/Word-Chain-Game) |
+| PlayBlockGame | [playblockgame.ru](https://playblockgame.ru/) | [PlayBlockGame](https://github.com/ivanlukichev/PlayBlockGame) |
+| Tic-Tac-Toe | [крестики-нолики.рф](https://крестики-нолики.рф/) | [---](https://github.com/ivanlukichev/---) |
+| Solitaire | [играть-пасьянс.рф](https://играть-пасьянс.рф/) | [-](https://github.com/ivanlukichev/-) |
+| Sudoku Play | [sudoku-play.org](https://sudoku-play.org/) | [Sudoku-Play](https://github.com/ivanlukichev/Sudoku-Play) |
+| CalcSprint | [calcsprint.com](https://calcsprint.com/) | [CalcSprint](https://github.com/ivanlukichev/CalcSprint) |
+| Number Hunt | [numberhuntgame.com](https://numberhuntgame.com/) | [numberhuntgame](https://github.com/ivanlukichev/numberhuntgame) |
 
-## Author
+## Visit
 
-Created by **Ivan Lukichev**
-
-More projects:  
-https://lukichev.biz/
-
-## Data
-
-Goroda-na uses a curated city list for gameplay, validation, and letter-based city pages.
-
-The current list contains **5,336 city names** and is available in this repository as a separate open resource:
-
-[https://github.com/ivanlukichev/Goroda-na/blob/main/city-list-games](https://github.com/ivanlukichev/Goroda-na/blob/main/city-list-games)
-
-You can:
-
-- view the full list  
-- download it  
-- use it in your own projects  
-- build your own word games, city games, or lookup tools  
-
-The list is intended for practical use in games and may require additional filtering depending on your rules and geography policy.
+<p>
+  <a href="https://goroda-na.ru/"><strong>Open Goroda</strong></a><br>
+  Classic city-chain gameplay with a reusable city dataset behind it.
+</p>

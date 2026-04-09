@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Goroda preview">
+  <rect width="1200" height="630" fill="#10202a"/>
+  <circle cx="1010" cy="120" r="170" fill="#4ecdc4" opacity="0.16"/>
+  <circle cx="180" cy="520" r="220" fill="#ffe66d" opacity="0.1"/>
+  <rect x="84" y="86" width="1032" height="458" rx="34" fill="#172b37" stroke="#315368" stroke-width="2"/>
+  <text x="120" y="160" fill="#4ecdc4" font-family="Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="2">CITY CHAIN WORD GAME</text>
+  <text x="120" y="252" fill="#ffffff" font-family="Arial, sans-serif" font-size="72" font-weight="700">Goroda</text>
+  <text x="120" y="310" fill="#d7e7ef" font-family="Arial, sans-serif" font-size="28">Geography, memory, and language in one classic browser game.</text>
+  <rect x="120" y="366" width="176" height="52" rx="26" fill="#ffe66d"/>
+  <text x="208" y="400" text-anchor="middle" fill="#10202a" font-family="Arial, sans-serif" font-size="24" font-weight="700">Play now</text>
+  <g transform="translate(742 150)">
+    <rect width="288" height="268" rx="28" fill="#13232d" stroke="#40647b"/>
+    <circle cx="70" cy="84" r="34" fill="#4ecdc4"/>
+    <circle cx="146" cy="138" r="34" fill="#ffe66d"/>
+    <circle cx="222" cy="84" r="34" fill="#ff8a5b"/>
+    <path d="M70 84 L146 138 L222 84" fill="none" stroke="#d9eef1" stroke-width="8" stroke-linecap="round"/>
+    <text x="46" y="196" fill="#d9eef1" font-family="Arial, sans-serif" font-size="22" font-weight="700">Moscow</text>
+    <text x="118" y="230" fill="#d9eef1" font-family="Arial, sans-serif" font-size="22" font-weight="700">Warsaw</text>
+    <text x="196" y="196" fill="#d9eef1" font-family="Arial, sans-serif" font-size="22" font-weight="700">Wroclaw</text>
+  </g>
+  <text x="120" y="492" fill="#8eb2c4" font-family="Arial, sans-serif" font-size="22">Live at goroda-na.ru</text>
+</svg>
